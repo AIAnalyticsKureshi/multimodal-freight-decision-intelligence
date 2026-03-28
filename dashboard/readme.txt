@@ -1,1 +1,0 @@
-dashboard/readme.txt
